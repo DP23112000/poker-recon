@@ -1,4 +1,4 @@
-package com.divyanshu.pokerWalletRecon;
+package com.divyanshu.pokerwalletrecon;
 
 import lombok.*;
 

@@ -9,7 +9,7 @@ provider:
 
         functions:
         revenueReport:
-        handler: com.gamezy.pokerWalletRecon.Main
+        handler: com.divyanshu.pokerwalletrecon.Main
         environment:
         ENV: dev
         events:
