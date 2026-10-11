@@ -33,4 +33,4 @@ public class ReconReportGenerator {
         System.out.println("Report generated successfully for " + d1);
         data.clear();
     }
-}
+}// final tweak
