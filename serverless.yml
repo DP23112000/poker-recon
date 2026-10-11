@@ -1,0 +1,16 @@
+service: casual-games-reports
+provider:
+        name: aws
+        runtime: java8
+        region: ap-south-1
+
+        package:
+        artifact: target/CasualGamesReports.jar
+
+        functions:
+        revenueReport:
+        handler: com.gamezy.pokerWalletRecon.Main
+        environment:
+        ENV: dev
+        events:
+        - schedule: rate(1 day)
