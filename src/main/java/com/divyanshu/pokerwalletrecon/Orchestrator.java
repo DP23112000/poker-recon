@@ -1,4 +1,4 @@
-package com.divyanshu.pokerWalletRecon;
+package com.divyanshu.pokerwalletrecon;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

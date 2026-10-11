@@ -1,4 +1,4 @@
-package com.divyanshu.pokerWalletRecon;
+package com.divyanshu.pokerwalletrecon;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.http.client.methods.HttpPost;

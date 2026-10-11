@@ -1,4 +1,4 @@
-package com.divyanshu.pokerWalletRecon;
+package com.divyanshu.pokerwalletrecon;
 
 import org.apache.spark.SparkConf;
 import com.amazonaws.services.lambda.runtime.Context;
